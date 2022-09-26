@@ -1180,10 +1180,10 @@ ini@~1.3.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
-inngest@^0.4.5:
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.5.tgz#a65b5e33b7e4276f8983c7bb3cf5ad0eacd320ae"
-  integrity sha512-DRSZyR/9BJ4VK2IGNnyF2lM8vwGTtumVMWfNk0g97urUlqBqCGpLtOXBOWq+ZXnBtqDkLJ7A2lFlS7ZKtOQrgg==
+inngest@^0.4.6:
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.6.tgz#a979eb847a0a1f90d02d67b4682c85bc5a14bd90"
+  integrity sha512-y8O8Z47uvlZ0HJCcBwmUe0xvgJxEtzVthRD9LAJMzTB9laFsAONDfrb0g43xFuXgDMLy46MuV7XcBnMP5cAJeQ==
   dependencies:
     axios "^0.27.2"
     zod "^3.19.1"
