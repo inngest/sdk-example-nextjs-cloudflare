@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "inngest": "^0.4.10",
+    "inngest": "github:inngest/inngest-js#main",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
