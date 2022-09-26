@@ -1419,10 +1419,10 @@ ini@~1.3.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
-inngest@^0.4.12:
-  version "0.4.12"
-  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.12.tgz#d0e81f69f1baec7cd46cd859de8e8a59e2ff4a8c"
-  integrity sha512-q3KEHasBQSjaik0g25mCALz8FFrVK0fjhwXBS8VmIMgPysdPeQbwknplx3DPN6MsxU5LX00wUX/bnhJ/Msss2g==
+inngest@^0.4.13:
+  version "0.4.13"
+  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.13.tgz#f9ab7657c8cb23e6dbdbd6b31bc6a892df8a54b7"
+  integrity sha512-HHYZlsDLO5qMI/5pMqyrCb1orjpb0MVwe9DHGbQyYTCv2ssBh3VJQXjQ1ZRccvUQNFsJiIZvjXdwbaPz20GfBw==
   dependencies:
     axios "^0.27.2"
     buffer "^6.0.3"
