@@ -1166,10 +1166,10 @@ ini@~1.3.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
-inngest@^0.4.16-cfp.4:
-  version "0.4.16-cfp.4"
-  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.16-cfp.4.tgz#e04eebcf9ce04240d6ddcdeb09095d5c04d104f7"
-  integrity sha512-If6LDzbDX1QpZjgcUAnaIn/x7SImo4QwRUk1/YBozaHRVTTotPixka51rgg4mSmh+7dRwIFr6GfyWzOR4gyzEQ==
+inngest@^0.4.16-cfp.5:
+  version "0.4.16-cfp.5"
+  resolved "https://registry.yarnpkg.com/inngest/-/inngest-0.4.16-cfp.5.tgz#549d71adf74d97071bcc50354fcaacecdf79cb57"
+  integrity sha512-LEioUrurj0FXdsZ3mct+0Qy2J/NMUtUyV/CTqQmgRtTey00OzBKVKmh5ZEAcD4yEUs/4HxCx+DGP8ZreQwdT6w==
   dependencies:
     buffer "^6.0.3"
     cross-fetch "^3.1.5"
