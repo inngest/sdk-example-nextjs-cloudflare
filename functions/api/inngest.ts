@@ -1,4 +1,4 @@
 import { serve } from "inngest/cloudflare";
-import fns from "../../inngest";
+import { inngest, functions } from "../../inngest";
 
-export const onRequest = serve("Cloudflare Pages Example", fns);
+export const onRequest = serve(inngest, fns);
